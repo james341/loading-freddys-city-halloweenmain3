@@ -136,7 +136,7 @@ var l_musicPlaylist = [
 	{ogg: "nightmarebchristmas.ogg", name: "Nations - Installation Music"},
 	{ogg: "simpsonshitrunsev.ogg", name: "Nations - Installation Music"},
 	{ogg: "freehmusic.ogg", name: "Nations - Installation Music"},
-	{ogg: "xmanback.ogg", name: "Nations - Installation Music"},
+	{ogg: "hogwartsgrounds.ogg", name: "Nations - Installation Music"},
 ];
 
 // Random music order?
@@ -190,7 +190,7 @@ var l_messages = [
         "If you are handcuffed, you must comply with the officer. Not doing so can be considered FailRP. If the police officer gets distracted and leaves you alone, you may attempt an escape!",
         "If somebody is wanted you may AOS/KOS the person. In order to KOS, you must warn the criminal at least 3 times to stop Moving. If they comply, you must arrest them instead!",
         "Any violations within these rules will have our loyal fellow mods give you a warning, if you continue to violate the rules it will result in a kick out or if major, banned. So pls, try not to cause trouble. Have a good day!",
-        "KOS signs most are clearly placed at the entrance of a KOS area it must be sized and colored clearly any attempts to bait people into areas with obscure KOS signs will result in punishment from staff!"
+        "Harassing staff or higher ranking players for positions in regiments or a staff role is not allowed. If you are confused about your position or a potential promotion, contact a higher level staff member to confirm!"
 
 ];
 
