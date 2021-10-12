@@ -134,6 +134,8 @@ var l_musicDisplay = true;
 // (You can also use external URL for the ogg files)
 var l_musicPlaylist = [
 	{ogg: "nightmarebchristmas.ogg", name: "Nations - Installation Music"},
+	{ogg: "monstermash.ogg", name: "Nations - Installation Music"},
+	{ogg: "spookyscarysk.ogg", name: "Nations - Installation Music"},
 	{ogg: "simpsonshitrunsev.ogg", name: "Nations - Installation Music"},
 	{ogg: "freehmusic.ogg", name: "Nations - Installation Music"},
 	{ogg: "hogwartsgrounds.ogg", name: "Nations - Installation Music"},
@@ -182,7 +184,6 @@ var l_messages = [
         "ERP is strictly Forbidden! - Erotic roleplay is not allowed on the server!  IT IS A BANNABLE OFFENSE!",
         "It Is forbidden to attack with a splash through props, walls, outside the territory of the pizzeria. It is also forbidden to intentionally attack animatronics and plush toys while outside the territory of the pizzeria. It is forbidden to climb stairs (excl. Purple Guy in the guise of a security guard. Punishment: warn / Ban 10-20min!",
         "No jokes about mental illnesses, Sexualities, or religions/political stuff. (Ex. Cancer, Autism, Gay, Etc!",
-        "No concentration Camps or inappropriate structures. (Racist/Pornographic/Bashing of religions etc are not tolerated!",
         "It is forbidden to Prop Abuse, Fly on a prop / object, or to Lift, push someone, spam with a prop / object, as well as climb props that do not obey the laws of physics (you CAN build stairs) and build non-physical structures. It is also forbidden to build near the fountain and in the pizzeria. [Punishment: warn / Ban 10-20min!",
         "Using offensive humor is NOT okay. With everything going on, with racism and other problems around the world, we (as staff) will be more strict if we need to be!",
         "You cannot take over places. If you raid a place, you must leave after you have accomplished your goal. Do NOT stay to prevent people from returning for an extended period of time!",
