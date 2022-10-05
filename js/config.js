@@ -134,7 +134,7 @@ var l_musicDisplay = true;
 // (You can also use external URL for the ogg files)
 var l_musicPlaylist = [
 	{ogg: "nightmarebchristmas.ogg", name: "Nations - Installation Music"},
-	{ogg: "jackslament.ogg", name: "Nations - Installation Music"},
+	{ogg: "fredbearfight.ogg", name: "Nations - Installation Music"},
 	{ogg: "thisishalloweentwo.ogg", name: "Nations - Installation Music"},
 	{ogg: "monstermash.ogg", name: "Nations - Installation Music"},
 	{ogg: "spookyscarysk.ogg", name: "Nations - Installation Music"},
