@@ -133,11 +133,10 @@ var l_musicDisplay = true;
 // (Place the ogg files in the music folder)
 // (You can also use external URL for the ogg files)
 var l_musicPlaylist = [
-	{ogg: "nightmarebchristmas.ogg", name: "Nations - Installation Music"},
+	{ogg: "simpsonsIdiotfuneral.ogg", name: "Nations - Installation Music"},
 	{ogg: "fredbearfight.ogg", name: "Nations - Installation Music"},
 	{ogg: "thisishalloweentwo.ogg", name: "Nations - Installation Music"},
 	{ogg: "monstermash.ogg", name: "Nations - Installation Music"},
-	{ogg: "spookyscarysk.ogg", name: "Nations - Installation Music"},
 	{ogg: "ghostbusterdsaf.ogg", name: "Nations - Installation Music"},
 	{ogg: "freehmusic.ogg", name: "Nations - Installation Music"},
 	{ogg: "stresssongdhme.ogg", name: "Nations - Installation Music"},
