@@ -172,6 +172,7 @@ var l_messages = [
         "Do not disclose the personal information of another person, such as an address, phone, geographical location, photos, or other personally identifying information, without explicit consent from the person!",
 	"No offensive humor is NOT okay. With everything going on, with racism and other problems around the world, we (as staff) will be more strict if we need to be!",
         "Do not degrade/harass a person based on gender, age, race, sexuality, or religious preference. -- This is 2022 not the 1940's and 50's!",
+	"One-on-one verbal conversation between the staff member and party in a private channel, with an explanation of the infraction, and what next steps may be taken if the problem persists!
 	"Do NOT abuse props in any way, shape, or form. (prop-blocking, prop-killing, prop-bridging, and prop-spamming!",
 	"Inappropriate behaviour with a minor (under 18) is strictly prohibited!",
 	"Accidentally killing someone (crossfire) is not RDM unless on purpose, if someone does walk in the way that is allowed as long as you repay them. ( This rule also applies to Accidentally running someone over!",
