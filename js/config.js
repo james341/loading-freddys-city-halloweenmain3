@@ -135,14 +135,14 @@ var l_musicDisplay = true;
 // (Place the ogg files in the music folder)
 // (You can also use external URL for the ogg files)
 var l_musicPlaylist = [
-	{ogg: "simpsonsIdiotfuneral.ogg", name: "Nations - Installation Music"},
-	{ogg: "thisishalloweenmusicb.ogg", name: "Nations - Installation Music"},
-	{ogg: "somehmusicshit1.ogg", name: "Nations - Installation Music"},
-	{ogg: "twojunkyhappyhalloweenmusicbox.ogg", name: "Nations - Installation Music"},
-	{ogg: "homeundertale.ogg", name: "Nations - Installation Music"},
-	{ogg: "ghostbusterdsaf.ogg", name: "Nations - Installation Music"},
-	{ogg: "freehmusic.ogg", name: "Nations - Installation Music"},
-	{ogg: "junkyhappyhalloweenmusicbox.ogg", name: "Nations - Installation Music"},
+	{ogg: "simpsonsIdiotfuneral.ogg", name: "Nations - Halloween Music"},
+	{ogg: "thisishalloweenmusicb.ogg", name: "Nations - Halloween Music"},
+	{ogg: "somehmusicshit1.ogg", name: "Nations - Halloween Music"},
+	{ogg: "twojunkyhappyhalloweenmusicbox.ogg", name: "Nations - Halloween Music"},
+	{ogg: "homeundertale.ogg", name: "Nations - Halloween Music"},
+	{ogg: "ghostbusterdsaf.ogg", name: "Nations - Halloween Music"},
+	{ogg: "freehmusic.ogg", name: "Nations - Halloween Music"},
+	{ogg: "junkyhappyhalloweenmusicbox.ogg", name: "Nations - Halloween Music"},
 ];
 
 // Random music order?
