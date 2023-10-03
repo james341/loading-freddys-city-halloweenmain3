@@ -137,6 +137,7 @@ var l_musicDisplay = true;
 var l_musicPlaylist = [
 	{ogg: "simpsonsIdiotfuneral.ogg", name: "Nations - Installation Music"},
 	{ogg: "thisishalloweenmusicb.ogg", name: "Nations - Installation Music"},
+	{ogg: "somehmusicshit1.ogg", name: "Nations - Installation Music"},
 	{ogg: "twojunkyhappyhalloweenmusicbox.ogg", name: "Nations - Installation Music"},
 	{ogg: "homeundertale.ogg", name: "Nations - Installation Music"},
 	{ogg: "ghostbusterdsaf.ogg", name: "Nations - Installation Music"},
