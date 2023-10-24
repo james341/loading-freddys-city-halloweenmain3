@@ -142,6 +142,7 @@ var l_musicPlaylist = [
 	{ogg: "thisishalloweenmusicb.ogg", name: "Nations - Halloween Music"},
 	{ogg: "twojunkyhappyhalloweenmusicbox.ogg", name: "Nations - Halloween Music"},
 	{ogg: "lostconstellation.ogg", name: "Nations - Halloween Music"},
+	{ogg: "stopmedsaf.ogg", name: "Nations - Halloween Music"},
 	{ogg: "homeundertale.ogg", name: "Nations - Halloween Music"},
 	{ogg: "ghostbusterdsaf.ogg", name: "Nations - Halloween Music"},
 	{ogg: "freehmusic.ogg", name: "Nations - Halloween Music"},
