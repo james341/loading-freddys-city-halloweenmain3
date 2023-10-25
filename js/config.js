@@ -138,13 +138,11 @@ var l_musicDisplay = true;
 // (Place the ogg files in the music folder)
 // (You can also use external URL for the ogg files)
 var l_musicPlaylist = [
-	{ogg: "simpsonsIdiotfuneral.ogg", name: "Nations - Halloween Music"},
+	{ogg: "witchescrewccmusic.ogg", name: "Nations - Halloween Music"},
 	{ogg: "thisishalloweenmusicb.ogg", name: "Nations - Halloween Music"},
 	{ogg: "twojunkyhappyhalloweenmusicbox.ogg", name: "Nations - Halloween Music"},
-	{ogg: "lostconstellation.ogg", name: "Nations - Halloween Music"},
 	{ogg: "stopmedsaf.ogg", name: "Nations - Halloween Music"},
 	{ogg: "homeundertale.ogg", name: "Nations - Halloween Music"},
-	{ogg: "ghostbusterdsaf.ogg", name: "Nations - Halloween Music"},
 	{ogg: "freehmusic.ogg", name: "Nations - Halloween Music"},
 	{ogg: "junkyhappyhalloweenmusicbox.ogg", name: "Nations - Halloween Music"},
 ];
@@ -169,6 +167,7 @@ var l_messages = [
 	"No Blatant RDM is if you blatantly RDM someone on their T round (like walk up and Juan Deag them in the face at the start of the round when they’re afk), you may be slain an extra time at the discretion of the staff online. Same goes for blatantly RDMing a D. (except Pao, fuck that guy, always RDM Pao when you see him!",
 	"No harassing users We all have different opinions! That means we all have different ships, character options, etc. Healthy discussion is one thing; asking questions is normal, but getting mad at someone for their likes is unacceptable!",
 	"Porn Sprays. Pretty self-explanatory. I’m saying that boobs are okay until I hear back from Tim, but absolutely no genitalia, whether it be anime, black and white “art”, animals, or whatever the hell else you freakin weirdos want to share with the world. This also applies to gore or “shock images” and things that look like porn sprays but really aren’t. For instance, three pigs were photographed and framed in such a way as to look like a man’s taint. It should be clear what is not allowed, and if you have to ask, the answer is probably no. Kids frequent this server. Keep that in mind!",
+	"You may only advertise steal if you witness a PD raid, a bank raid, or a normal raid. When advertising Steal towards a Meth Cook or Weed Grower, you need to have seen the product they are "carrying" before-hand. Stealing without having the RP reason to do so will grant you a warning. We urge all cooks and growers to use clipping software and provide evidence should this issue ever escalate!",
 	"Be kind and keep things polite. Harassment, sexism, racism, homophobia, transphobia, or hate speech of any kind will not be tolerated (username and pfp included). If you are being harassed or feel unsafe, direct message the Moderators or ModMail!",
 	"Do not send a lot of small messages right after each other. These disrupt chat and make it hard to scroll through the server!",
 	"Don't metagame don't use information from outside of RP, e.g., the killfeed or someone's job title, in roleplay!",
@@ -184,7 +183,7 @@ var l_messages = [
 	"The fading door limit is three doors protecting your Items. You may only require raiders to go through three doors to get to your entity or bank vault!",
 	"You cannot make laws that hinder CPs from doing their job properly (i.e., cops cannot handcuff criminals, cannot use their stun guns, or all fines are $1) in conjunction with a law stating no arresting. PD is KOS to everyone, including CPs!",
 	"Inappropriate usernames, pfps, banners, statuses, and bios are not allowed. Most violations of this rule will result in a kick on the first offence!",
-	"If all raiders die, the raid is over and the 10-minute cooldown begins before you can raid that same base again",
+	"Players may sell slots in their custom classes for in-game items such as in-game money, in-game weapons, or mutiny shop items, as long as the trade does not violate any other rules. When selling a custom class slot, there is a default 30-day period in place where a user cannot be removed from the class unless agreed upon by a member of Management+. If either party wants to extend this time, an agreement must be reached with evidence such as a video recording or screenshots of discussions",
 	"Any harassment, disrespect, and discrimination will not be tolerated. Be civilised and do not target other players with actions in the game or in chat. This game is meant to be fun; anyone coming on with the intent of disrupting people's experiences will be treated harshly!",
 	"Everyone gets mad, so showing your feelings will not get you punished. However, constantly complaining in chat or voice, and overall being a nuisance will get you punished!",
 	"In order to kill your kidnapped victim, you must bring them to your base first. Kidnapping them in the street, and when they wake up in the street, killing them, there is still RDM!",
