@@ -144,7 +144,7 @@ var l_musicPlaylist = [
 	{ogg: "stopmedsaf.ogg", name: "Nations - Halloween Music"},
 	{ogg: "homeundertale.ogg", name: "Nations - Halloween Music"},
 	{ogg: "freehmusic.ogg", name: "Nations - Halloween Music"},
-	{ogg: "junkyhappyhalloweenmusicbox.ogg", name: "Nations - Halloween Music"},
+	{ogg: "fnafmoviesongth.ogg", name: "Nations - Halloween Music"},
 ];
 
 // Random music order?
@@ -214,11 +214,11 @@ var l_messages = [
 	"Offensive slurs, antisemitism, racism, homophobia, whiteshaming, and absolutely any promotion of extremist views or political ideologies are not allowed. Breaking this rule either leads to 4 days of isolation or an immediate ban!",
 	"Do not exacerbate problems and do not succumb to provocations; do not make a scandal in any server chat because of a dispute or something else; instead, go to private messages and resolve all issues personally among yourself. If there are any problems, report them to the moderators!",
 	"A base has a maximum occupancy of five players who must be in a party (or gang) or organisation together. (/orgs) This limit includes up to a maximum of one battle medic. The gangster and mafia sides are not required to be in a gang or organisation and may have as many members in a base together as the server permits. A base may wish to have players visit, but they cannot buy or store printers, bitminers, or job entities within your base. assist with countering a raid against your base unless they are a job that is allowed to counter active raids and are outside of the base at the time the raid is called and follow all Counter Raid Rules as set in the Raiding Rules above!",
-	"Racism, Fascism, Nazism, and fanaticism, even in a joking manner, are not allowed. Using these words, even if you are not addressing anyone, will result in a penalty!",
+	"No Racism, Fascism, Nazism, and fanaticism, even in a joking manner, are not allowed. Using these words, even if you are not addressing anyone, will result in a penalty!",
 	"No self-promotion without permission: Avoid sharing personal websites, social media, or promotional content without permission from the server admins!",
 	"Be respectful and show respect to all members of the Server. Harassment and bullying are not allowed in any form and may result in being muted or kicked!",
 	"Be respectful Treat others with respect and kindness. Avoid hate speech, discrimination, and harassment!",
-	"ENo impersonating staff within the discord or server. Tier 2 Offence: (These offences can result in a variaty of punishments, whether they be warn, kick, mute, or ban. This is determined in the context of the infraction. 1. Harassment of any form!",
+	"No impersonating staff within the discord or server. Tier 2 Offence: (These offences can result in a variaty of punishments, whether they be warn, kick, mute, or ban. This is determined in the context of the infraction. 1. Harassment of any form!",
 	"Breaking rules outside of AN and having it reported to us may result in equal punishment here. You are responsible for your own actions. Examples: Excessive racism, excessive harassment, excessive bullying, causing harm to other community members or communities!",
 	"The Server is not equipped to handle your personal issues. It's not that we don't care; it's just that we can't carry the weight of your problems. Do not talk about heavy psychological issues, and please seek help from a professional!",
 	"no Intentional Delays Repeatedly leaving or suicidal to avoid encounters with anyone or purposely spawning in a role you do not want is not allowed. Such behaviour disrupts the flow of the game and negatively affects others' experiences!",
