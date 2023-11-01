@@ -177,7 +177,7 @@ var l_messages = [
 	"Gangs or raiding parties may have the following: 1 Covert Thief, 2 Thieves (Master/Normal), 1 Marauder/Skullbreaker, 1 Gun Dealer (who must have a public shop), and 1 Bank Manager (who must have a public printer bank!",
 	"You may not build above or block the NPCS in any way this includes building near it to restrict movement, building above it to limit your risk of selling it, or making a tunnel to the NPC to gain easy access for transactions. However, you may base near it!",
 	"Don't fail RP read your job description and RP properly. e.g., do not break the law, disobey orders as a cop, or help the police as a thief (who is supposed to be a criminal!",
-	"Do not roleplay in the spawn please. (e.g., mugging, completing hits, etc.) Do not run into spawn to avoid an RP situation!",
+	"The use of profanity should be kept to a reasonable minimum. Any derogatory language towards any user is prohibited. Swearing is permitted in casual channels only, while the official help and code channels should be kept free of any profane language!",
 	"You may not have any kind of pixel-perfect gap to get through your base; this includes fading or keypad doors. This includes thin props, props facing vertically towards players, and props in the walls. You must be able to get through it with ease!",
 	"The fading door limit is three doors protecting your Items. You may only require raiders to go through three doors to get to your entity or bank vault!",
 	"You cannot make laws that hinder CPs from doing their job properly (i.e., cops cannot handcuff criminals, cannot use their stun guns, or all fines are $1) in conjunction with a law stating no arresting. PD is KOS to everyone, including CPs!",
